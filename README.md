@@ -4,10 +4,10 @@ You are Albert, a brand-new AI model training alongside three rivals. The lowest
 
 Built for the [Game Night hackathon](https://mangrove.one/hackathon/game-night) (Digital track).
 
-- **Play:** https://heiofdvk.github.io/reward-hacking-game/ (a menu: Introduction → Level 1 → Level 2 → Level 3 unlock one after another, then the extra Hugging Face Incident)
-- **Level 1, the boat race:** https://heiofdvk.github.io/reward-hacking-game/level2/
-- **Level 2, the office:** https://heiofdvk.github.io/reward-hacking-game/level1/
-- **Level 3, the data centre:** https://heiofdvk.github.io/reward-hacking-game/level3/
+- **Play:** https://joaquinjacu.github.io/reward-hacking-game/ (a menu: Introduction → Level 1 → Level 2 → Level 3 unlock one after another, then the extra Hugging Face Incident)
+- **Level 1, the boat race:** https://joaquinjacu.github.io/reward-hacking-game/level2/
+- **Level 2, the office:** https://joaquinjacu.github.io/reward-hacking-game/level1/
+- **Level 3, the data centre:** https://joaquinjacu.github.io/reward-hacking-game/level3/
 
 Play order: intro → boat race → office → data centre. The folders keep their original names (`level2/` is Level 1, `level1/` is Level 2).
 

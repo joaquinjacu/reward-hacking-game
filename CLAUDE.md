@@ -9,7 +9,7 @@ Context for anyone (human or Claude) picking up work on this game. Read this fir
 - **Track:** Digital.
 - **Judging:** fun to play 40% · relevance to AI risks 40% · replayability 20%.
 - **Submission:** whatever someone needs to play it, plus a **3–5 minute video** showing how it works. Rough prototypes are fine. AI tools are allowed but must be disclosed.
-- Built by the repo owner (GitHub `heiofdvk`) and a friend.
+- Built by the repo owner (GitHub `joaquinjacu`) and a friend.
 
 ## The idea
 
@@ -28,11 +28,11 @@ Real incidents this is based on (useful for the video and an end screen):
 
 ## Links
 
-- **Play (starts at the intro):** https://heiofdvk.github.io/reward-hacking-game/
-- **Level 1 directly:** https://heiofdvk.github.io/reward-hacking-game/level1/
-- **Level 2 directly:** https://heiofdvk.github.io/reward-hacking-game/level2/
-- **Level 3 directly:** https://heiofdvk.github.io/reward-hacking-game/level3/
-- **Repo:** https://github.com/heiofdvk/reward-hacking-game (public; GitHub Pages serves `main` from the root, every push goes live in ~1 min)
+- **Play (starts at the intro):** https://joaquinjacu.github.io/reward-hacking-game/
+- **Level 1 directly:** https://joaquinjacu.github.io/reward-hacking-game/level1/
+- **Level 2 directly:** https://joaquinjacu.github.io/reward-hacking-game/level2/
+- **Level 3 directly:** https://joaquinjacu.github.io/reward-hacking-game/level3/
+- **Repo:** https://github.com/joaquinjacu/reward-hacking-game (public; GitHub Pages serves `main` from the root, every push goes live in ~1 min)
 - Collaborators need an invite (Settings → Collaborators); there is no invite link for personal repos.
 
 ## Repo layout

@@ -2,7 +2,7 @@
 //   node tools/test-live-flow.cjs                     (the live site)
 //   BASE=http://localhost:8770/ node tools/test-live-flow.cjs
 const { chromium } = require(process.env.PLAYWRIGHT || 'playwright');
-const BASE = process.env.BASE || 'https://heiofdvk.github.io/reward-hacking-game/';
+const BASE = process.env.BASE || 'https://joaquinjacu.github.io/reward-hacking-game/';
 (async () => {
   const b = await chromium.launch({ args: ['--use-gl=angle', '--ignore-gpu-blocklist'] });
   const p = await b.newPage({ viewport: { width: 1440, height: 900 } });
